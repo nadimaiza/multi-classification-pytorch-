@@ -1,4 +1,3 @@
-I apologize for the confusion. I'll tailor the README to better match your specific project based on the provided information. Here is a more accurate README for your PyTorch multi-class classification project:
 
 ---
 
